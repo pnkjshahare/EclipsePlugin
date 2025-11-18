@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.ai.codereview.feature_1.0.0.202511181220.jar" id="com.ai.codereview.feature" version="1.0.0.202511181220">
+      <category name="AI Tools"/>
+   </feature>
+   <category-def name="AI Tools" label="AI Tools"/>
+</site>
